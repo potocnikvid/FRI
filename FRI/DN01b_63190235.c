@@ -34,5 +34,5 @@ int main(){
     if(pristej1 == true){
         stevec++;
     }
-    printf ("%d", stevec);
+    printf ("%d\n", stevec);
 }

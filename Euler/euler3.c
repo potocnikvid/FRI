@@ -14,7 +14,7 @@ int main(){
                     isPrime = false;
                     break;
                 }
-                printf(".");
+                //printf(".");
             }
             if(isPrime = true){
                 printf("%d ", i);

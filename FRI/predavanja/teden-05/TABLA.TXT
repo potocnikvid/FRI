@@ -1,0 +1,5 @@
+
+
+NIZI ZNAKOV (angl. strings):
+
+niz znakov = tabela znakov, ki ima za zadnjim znakom niza byte 0
